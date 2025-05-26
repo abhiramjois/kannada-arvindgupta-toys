@@ -17,7 +17,7 @@
           This project is an <strong>offline first, bilingual interface</strong> for the Arvind Gupta Toy repository in Kannada. The main intent is to make the repository accessible to communities that are often excluded digitally. This effort is part of the sanchari.local, a travelling library. Sanchari.local was conceptualized under <strong>Samagra Arogya</strong>, a long-term community-based research initiative by <strong>Aruvu Collaboratory</strong> and <strong>KHPT</strong>, working with seven <strong>Gram Panchayats in Kundapura</strong> to understand social determinants of health in a place based manner.
         </p>
         <a 
-          href="https://untold.town/magazine/2025/01/sanchari-local-in-hara-early-explorations-of-a-traveling-raspberry-pi-library/" 
+          href="https://github.com/abhiramjois/kannada-arvindgupta-toys/" 
           class="hover:bg-red-500 active:bg-red-600 p-3 sm:p-4 hover:text-white font-bold rounded bg-white text-red-500 border-2 border-red-500 w-full text-center text-sm sm:text-base transition-colors duration-200 touch-manipulation"
           target="_blank"
           rel="noopener noreferrer"
