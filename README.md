@@ -1,38 +1,34 @@
-# sv
+![Logo](logo.png){width="100%"} This project is an offline first, bilingual interface for the Arvind Gupta Toy repository in Kannada. The main intent is to make the repository accessible to communities that are often excluded digitally. This effort is part of the sanchari.local, a travelling library. Sanchari.local was conceptualized under Samagra Arogya, a long-term community-based research initiative by Aruvu Collaboratory and KHPT, working with seven Gram Panchayats in Kundapura to understand social determinants of health in a place based manner.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+### Installation
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+``` Bash
+git clone https://github.com/abhiramjois/kannada-arvindgupta-toys.git
+cd arvind-gupta-kannada
+npm run install
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+### Running the offline version
 
-To create a production version of your app:
+For the **offline version** of this application:
 
-```bash
-npm run build
-```
+1.  Download the Arvind Gupta Toys videos mentioned in full_translated.json
 
-You can preview the production build with `npm run preview`.
+2.  Place all downloaded video files in the `static/downloads/` folder
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+3.  Ensure video filenames match the references in your metadata/database
+
+4.  The application will serve these videos locally when running offline
+
+### About Arvind Gupta Toys
+
+Arvind Gupta Toys is a collection of over 8,000 educational videos demonstrating how to create toys and experiments that explain basic science and mathematics concepts using everyday materials. The content is available under Creative Commons licensing, enabling projects like this to make educational content more accessible.
+
+### Samagra Arogya
+
+This project is part of **Samagra Arogya**, a community-based research initiative by **Aruvu Collaboratory** and **KHPT**, working with seven Gram Panchayats in Kundapura to understand social determinants of health through a place-based approach.
+
+### License
+
+This project builds upon Arvind Gupta's Creative Commons licensed content. Please respect the original licensing terms when using or redistributing this software.
