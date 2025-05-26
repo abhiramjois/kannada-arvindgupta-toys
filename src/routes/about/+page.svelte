@@ -10,7 +10,7 @@
       <img 
         src="children-engaging.jpg" 
         alt="Children engaging with educational materials" 
-        class="w-full lg:w-2/5 h-auto rounded-lg shadow-sm"
+        class="w-full lg:w-2/5 h-fit my-auto rounded-lg shadow-sm"
       >
       <div class="w-full lg:w-3/5 bg-white p-4 sm:p-5 border-red-300 border rounded-lg flex flex-col gap-3 shadow-sm">
         <p class="leading-relaxed text-sm sm:text-base mb-4">
@@ -84,7 +84,7 @@
           Mr. Arvind Gupta has made his work available under Creative Commons licensing, opening the door for projects like this one to exist and make his educational content more accessible to communities that are often excluded digitally.
         </p>
       </div>
-      <div class="w-full lg:w-2/5 flex flex-col gap-4">
+      <div class="w-full lg:w-2/5 flex flex-col gap-4 my-auto">
         <img src="arvind_g.webp" alt="Arvind Gupta" class="w-full h-auto rounded-lg shadow-sm">
         <div class="flex flex-col sm:flex-row gap-2 sm:gap-4 w-full">
           <a 
