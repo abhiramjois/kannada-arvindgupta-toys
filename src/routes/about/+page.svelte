@@ -64,8 +64,8 @@
           <div class="absolute bottom-1 right-1 sm:bottom-2 sm:right-2 w-3 h-3 sm:w-4 sm:h-4 border-2 sm:border-4 border-red-500 rounded-full"></div>
           <div class="absolute top-3 left-3 right-3 bottom-3 sm:top-4 sm:left-4 sm:right-4 sm:bottom-4 border-2 border-red-500 rounded-full"></div>
         </div>
-        <h3 class="font-bold text-base sm:text-lg mb-2">Community-Focused</h3>
-        <p class="text-xs sm:text-sm">Designed for children of communities in rural Karnataka belonging to areas with poor internet connectivity. Built for community engagement</p>
+        <h3 class="font-bold text-base sm:text-lg mb-2">For Community Engagement</h3>
+        <p class="text-xs sm:text-sm">Designed as part of Sanchari.local, a traveling library that is part of an ongoing community engagement Samagra Arogya to understand access to education as a social determinant of health</p>
       </div>
     </div>
   </section>

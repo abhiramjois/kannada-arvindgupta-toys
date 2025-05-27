@@ -35,8 +35,8 @@
         <a href="/" class="flex items-center gap-4 md:text-left hover:underline">
           <img src="/logo.png" alt="Logo" class=" h-12 w-12 object-contain" />
           <div class="flex flex-col leading-tight">
-            <span class="text-2xl sm:text-3xl font-bold">ಅರವಿಂದ್ ಗುಪ್ತ ಟಾಯ್ಸ್</span>
-            <span class="text-lg sm:text-xl font-medium font-mono text-orange-600">Arvind Gupta Toys</span>
+            <span class="text-2xl sm:text-3xl font-bold">ಎಜಿಟಿ ಆರ್ಕೈವ್ಸ್</span>
+            <span class="text-lg sm:text-xl font-medium font-mono text-orange-600">AGT Archives</span>
           </div>
         </a>        
     
@@ -59,7 +59,7 @@
 
     <!-- Footer -->
     <footer class="bg-gray-100 bg-opacity-80 text-sm text-gray-600 py-4 text-center rounded-t">
-      © {new Date().getFullYear()} Arvind Gupta Toys
+      {new Date().getFullYear()}, AGT Archives. This project builds upon Arvind Gupta's Creative Commons licensed content. Please respect the original licensing terms when using or redistributing this software.
     </footer>
   </div>
 </div>
